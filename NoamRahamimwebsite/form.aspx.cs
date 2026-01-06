@@ -7,21 +7,8 @@ using System.Web.UI.WebControls;
 
 public partial class form : System.Web.UI.Page
 {
-    public string name;
-    public string age;
-    public string subjects;
-    public string animel;
-    public string textfree;
     protected void Page_Load(object sender, EventArgs e)
     {
-        if (IsPostBack)
-        {
-            name = "name:" + Request.Form["firstname"];
-            age = "age:" + Request.Form["age"];
-            subjects = "subjects:" + Request.Form["check2"];
-            animel = "animal:" + Request.Form["radio1"];
-            textfree = "textfree:" + Request.Form["textarea"];
-        }
 
     }
 }

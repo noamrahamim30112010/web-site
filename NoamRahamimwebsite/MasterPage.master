@@ -11,12 +11,10 @@
         tr.navlink1 {
             background-color: #FFD700;
             text-align: center;
-            width:10px;
-            height:10px;
         }
         img.menu {
             width: 100px;
-            height: 50px;
+            height: 100px;
         }
     </style>
 </head>
@@ -24,35 +22,35 @@
         <table border="1">
             <tr>
                 <th>
-                    <h1>MACABI FANTACIS</h1>
+                    <h1>MACABI FANTASI</h1>
                 </th>
             </tr>
             <tr class="navlink1">
                 <td>
                     <a href="homepage.aspx">
-                        <img class="menu" src="images/homePage.png" /></a>
+                        <img class="menu" src="images/תמונה1.png" /></a>
                     <a href="aboutus.aspx">
                         <img class="menu" src="images/תמונה2.png" /></a>
                     <a href="search.aspx">
-                        <img class="menu" src="images/תמונה3.png" /></a>
-                    <a href="dietilupdate.aspx">
-                        <img class="menu" src="images/תמונה4.png" /></a>
-                    <a href="gallery.aspx">
                         <img class="menu" src="images/תמונה5.png" /></a>
-                    <a href="homepage.aspx">
+                    <a href="dietilupdate.aspx">
                         <img class="menu" src="images/תמונה6.png" /></a>
-                    <a href="homepage.aspx">
+                    <a href="gallery.aspx">
                         <img class="menu" src="images/תמונה7.png" /></a>
                     <a href="homepage.aspx">
-                        <img class="menu" src="images/תמונה8.png" /></a>
+                        <img class="menu" src="images/תמונה1.png" /></a>
                     <a href="homepage.aspx">
-                        <img class="menu" src="images/תמונה9.png" /></a>
+                        <img class="menu" src="images/תמונה1.png" /></a>
                     <a href="homepage.aspx">
-                        <img class="menu" src="images/תמונה10.png" /></a>
+                        <img class="menu" src="images/תמונה1.png" /></a>
                     <a href="homepage.aspx">
-                        <img class="menu" src="images/תמונה11.png" /></a>
+                        <img class="menu" src="images/תמונה1.png" /></a>
                     <a href="homepage.aspx">
-                        <img class="menu" src="images/תמונה12.png" /></a>
+                        <img class="menu" src="images/תמונה1.png" /></a>
+                    <a href="homepage.aspx">
+                        <img class="menu" src="images/תמונה1.png" /></a>
+                    <a href="homepage.aspx">
+                        <img class="menu" src="images/HomePage.png" /></a>
                 </td>
             </tr>
             <tr>
